@@ -2,6 +2,8 @@
 
 Este projeto realiza uma **Análise Exploratória de Dados (EDA)** dos microdados do **ENEM 2020**, com foco no **perfil socioeconômico e cultural dos candidatos** e na **ausência (eliminação)** no exame. A aplicação foi desenvolvida em **Python**, utilizando **Pandas**, **Plotly** e **Dash**, com arquitetura otimizada para performance por meio do pré-processamento dos dados.
 
+Veja o resultado: https://enem-etl-dash-3.onrender.com/
+
 ---
 
 ## 🎯 Objetivo do Projeto
