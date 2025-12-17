@@ -1,0 +1,28 @@
+# -------------------------
+# Dados brutos (microdados ENEM)
+# -------------------------
+
+MICRODADOS_ENEM_2020.csv
+data/raw/MICRODADOS_ENEM_2020.csv
+**/MICRODADOS_ENEM_2020.csv
+
+# -------------------------
+# Ambiente virtual
+# -------------------------
+venv/
+.venv/
+
+# -------------------------
+# Cache e temporários
+# -------------------------
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# -------------------------
+# Sistema / IDE
+# -------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

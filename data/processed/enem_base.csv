@@ -1,0 +1,1343 @@
+faixa_etaria,sexo,cor_raca,situacao_ensino,presenca,quantidade
+16,Feminino,Amarela,Concluiu,Eliminado,6
+16,Feminino,Amarela,Concluiu,Presente,4
+16,Feminino,Amarela,Cursando,Eliminado,1692
+16,Feminino,Amarela,Cursando,Presente,3503
+16,Feminino,Amarela,Evasão,Eliminado,35
+16,Feminino,Amarela,Evasão,Presente,36
+16,Feminino,Branca,Concluiu,Eliminado,74
+16,Feminino,Branca,Concluiu,Presente,132
+16,Feminino,Branca,Cursando,Eliminado,35363
+16,Feminino,Branca,Cursando,Presente,71185
+16,Feminino,Branca,Evasão,Eliminado,762
+16,Feminino,Branca,Evasão,Presente,832
+16,Feminino,Indígena,Concluiu,Eliminado,3
+16,Feminino,Indígena,Concluiu,Presente,3
+16,Feminino,Indígena,Cursando,Eliminado,345
+16,Feminino,Indígena,Cursando,Presente,496
+16,Feminino,Indígena,Evasão,Eliminado,7
+16,Feminino,Indígena,Evasão,Presente,4
+16,Feminino,Não declarado,Concluiu,Eliminado,3
+16,Feminino,Não declarado,Concluiu,Presente,4
+16,Feminino,Não declarado,Cursando,Eliminado,1720
+16,Feminino,Não declarado,Cursando,Presente,3107
+16,Feminino,Não declarado,Evasão,Eliminado,50
+16,Feminino,Não declarado,Evasão,Presente,54
+16,Feminino,Parda,Concluiu,Eliminado,128
+16,Feminino,Parda,Concluiu,Presente,149
+16,Feminino,Parda,Cursando,Eliminado,28501
+16,Feminino,Parda,Cursando,Presente,56522
+16,Feminino,Parda,Evasão,Eliminado,731
+16,Feminino,Parda,Evasão,Presente,698
+16,Feminino,Preta,Concluiu,Eliminado,36
+16,Feminino,Preta,Concluiu,Presente,37
+16,Feminino,Preta,Cursando,Eliminado,5051
+16,Feminino,Preta,Cursando,Presente,9188
+16,Feminino,Preta,Evasão,Eliminado,113
+16,Feminino,Preta,Evasão,Presente,94
+16,Masculino,Amarela,Concluiu,Eliminado,6
+16,Masculino,Amarela,Cursando,Eliminado,677
+16,Masculino,Amarela,Cursando,Presente,1591
+16,Masculino,Amarela,Evasão,Eliminado,19
+16,Masculino,Amarela,Evasão,Presente,21
+16,Masculino,Branca,Concluiu,Eliminado,54
+16,Masculino,Branca,Concluiu,Presente,91
+16,Masculino,Branca,Cursando,Eliminado,20077
+16,Masculino,Branca,Cursando,Presente,37762
+16,Masculino,Branca,Evasão,Eliminado,403
+16,Masculino,Branca,Evasão,Presente,424
+16,Masculino,Indígena,Concluiu,Eliminado,2
+16,Masculino,Indígena,Concluiu,Presente,3
+16,Masculino,Indígena,Cursando,Eliminado,205
+16,Masculino,Indígena,Cursando,Presente,261
+16,Masculino,Indígena,Evasão,Eliminado,5
+16,Masculino,Indígena,Evasão,Presente,4
+16,Masculino,Não declarado,Concluiu,Eliminado,4
+16,Masculino,Não declarado,Concluiu,Presente,5
+16,Masculino,Não declarado,Cursando,Eliminado,862
+16,Masculino,Não declarado,Cursando,Presente,1529
+16,Masculino,Não declarado,Evasão,Eliminado,31
+16,Masculino,Não declarado,Evasão,Presente,26
+16,Masculino,Parda,Concluiu,Eliminado,68
+16,Masculino,Parda,Concluiu,Presente,73
+16,Masculino,Parda,Cursando,Eliminado,15303
+16,Masculino,Parda,Cursando,Presente,28347
+16,Masculino,Parda,Evasão,Eliminado,456
+16,Masculino,Parda,Evasão,Presente,445
+16,Masculino,Preta,Concluiu,Eliminado,14
+16,Masculino,Preta,Concluiu,Presente,16
+16,Masculino,Preta,Cursando,Eliminado,2738
+16,Masculino,Preta,Cursando,Presente,4489
+16,Masculino,Preta,Evasão,Eliminado,73
+16,Masculino,Preta,Evasão,Presente,53
+17,Feminino,Amarela,Concluiu,Eliminado,107
+17,Feminino,Amarela,Concluiu,Presente,184
+17,Feminino,Amarela,Cursando,Eliminado,3674
+17,Feminino,Amarela,Cursando,Presente,7570
+17,Feminino,Amarela,Evasão,Eliminado,7
+17,Feminino,Amarela,Evasão,Presente,7
+17,Feminino,Branca,Concluiu,Eliminado,925
+17,Feminino,Branca,Concluiu,Presente,2014
+17,Feminino,Branca,Cursando,Eliminado,64155
+17,Feminino,Branca,Cursando,Presente,143067
+17,Feminino,Branca,Evasão,Eliminado,69
+17,Feminino,Branca,Evasão,Presente,38
+17,Feminino,Indígena,Concluiu,Eliminado,43
+17,Feminino,Indígena,Concluiu,Presente,51
+17,Feminino,Indígena,Cursando,Eliminado,972
+17,Feminino,Indígena,Cursando,Presente,1311
+17,Feminino,Indígena,Evasão,Eliminado,2
+17,Feminino,Indígena,Evasão,Presente,1
+17,Feminino,Não declarado,Concluiu,Eliminado,65
+17,Feminino,Não declarado,Concluiu,Presente,125
+17,Feminino,Não declarado,Cursando,Eliminado,3819
+17,Feminino,Não declarado,Cursando,Presente,6303
+17,Feminino,Não declarado,Evasão,Eliminado,7
+17,Feminino,Não declarado,Evasão,Presente,3
+17,Feminino,Parda,Concluiu,Eliminado,1906
+17,Feminino,Parda,Concluiu,Presente,3833
+17,Feminino,Parda,Cursando,Eliminado,65408
+17,Feminino,Parda,Cursando,Presente,126933
+17,Feminino,Parda,Evasão,Eliminado,127
+17,Feminino,Parda,Evasão,Presente,71
+17,Feminino,Preta,Concluiu,Eliminado,391
+17,Feminino,Preta,Concluiu,Presente,736
+17,Feminino,Preta,Cursando,Eliminado,13892
+17,Feminino,Preta,Cursando,Presente,27156
+17,Feminino,Preta,Evasão,Eliminado,34
+17,Feminino,Preta,Evasão,Presente,14
+17,Masculino,Amarela,Concluiu,Eliminado,41
+17,Masculino,Amarela,Concluiu,Presente,60
+17,Masculino,Amarela,Cursando,Eliminado,1693
+17,Masculino,Amarela,Cursando,Presente,3747
+17,Masculino,Amarela,Evasão,Eliminado,3
+17,Masculino,Amarela,Evasão,Presente,3
+17,Masculino,Branca,Concluiu,Eliminado,491
+17,Masculino,Branca,Concluiu,Presente,997
+17,Masculino,Branca,Cursando,Eliminado,42121
+17,Masculino,Branca,Cursando,Presente,94794
+17,Masculino,Branca,Evasão,Eliminado,47
+17,Masculino,Branca,Evasão,Presente,39
+17,Masculino,Indígena,Concluiu,Eliminado,23
+17,Masculino,Indígena,Concluiu,Presente,30
+17,Masculino,Indígena,Cursando,Eliminado,672
+17,Masculino,Indígena,Cursando,Presente,851
+17,Masculino,Indígena,Evasão,Eliminado,4
+17,Masculino,Indígena,Evasão,Presente,1
+17,Masculino,Não declarado,Concluiu,Eliminado,45
+17,Masculino,Não declarado,Concluiu,Presente,44
+17,Masculino,Não declarado,Cursando,Eliminado,2578
+17,Masculino,Não declarado,Cursando,Presente,3749
+17,Masculino,Não declarado,Evasão,Eliminado,4
+17,Masculino,Não declarado,Evasão,Presente,2
+17,Masculino,Parda,Concluiu,Eliminado,900
+17,Masculino,Parda,Concluiu,Presente,1764
+17,Masculino,Parda,Cursando,Eliminado,41796
+17,Masculino,Parda,Cursando,Presente,76762
+17,Masculino,Parda,Evasão,Eliminado,73
+17,Masculino,Parda,Evasão,Presente,41
+17,Masculino,Preta,Concluiu,Eliminado,239
+17,Masculino,Preta,Concluiu,Presente,360
+17,Masculino,Preta,Cursando,Eliminado,9437
+17,Masculino,Preta,Cursando,Presente,16930
+17,Masculino,Preta,Evasão,Eliminado,28
+17,Masculino,Preta,Evasão,Presente,15
+18,Feminino,Amarela,Concluiu,Eliminado,2294
+18,Feminino,Amarela,Concluiu,Presente,2871
+18,Feminino,Amarela,Cursando,Eliminado,3528
+18,Feminino,Amarela,Cursando,Presente,4809
+18,Feminino,Amarela,Evasão,Eliminado,21
+18,Feminino,Amarela,Evasão,Presente,4
+18,Feminino,Branca,Concluiu,Eliminado,34488
+18,Feminino,Branca,Concluiu,Presente,47404
+18,Feminino,Branca,Cursando,Eliminado,45870
+18,Feminino,Branca,Cursando,Presente,77261
+18,Feminino,Branca,Evasão,Eliminado,180
+18,Feminino,Branca,Evasão,Presente,79
+18,Feminino,Indígena,Concluiu,Eliminado,556
+18,Feminino,Indígena,Concluiu,Presente,481
+18,Feminino,Indígena,Cursando,Eliminado,1119
+18,Feminino,Indígena,Cursando,Presente,1195
+18,Feminino,Indígena,Evasão,Eliminado,7
+18,Feminino,Não declarado,Concluiu,Eliminado,1514
+18,Feminino,Não declarado,Concluiu,Presente,1943
+18,Feminino,Não declarado,Cursando,Eliminado,3937
+18,Feminino,Não declarado,Cursando,Presente,4151
+18,Feminino,Não declarado,Evasão,Eliminado,18
+18,Feminino,Não declarado,Evasão,Presente,4
+18,Feminino,Parda,Concluiu,Eliminado,40106
+18,Feminino,Parda,Concluiu,Presente,49740
+18,Feminino,Parda,Cursando,Eliminado,64461
+18,Feminino,Parda,Cursando,Presente,87439
+18,Feminino,Parda,Evasão,Eliminado,261
+18,Feminino,Parda,Evasão,Presente,77
+18,Feminino,Preta,Concluiu,Eliminado,10392
+18,Feminino,Preta,Concluiu,Presente,12244
+18,Feminino,Preta,Cursando,Eliminado,14406
+18,Feminino,Preta,Cursando,Presente,21279
+18,Feminino,Preta,Evasão,Eliminado,47
+18,Feminino,Preta,Evasão,Presente,23
+18,Masculino,Amarela,Concluiu,Eliminado,882
+18,Masculino,Amarela,Concluiu,Presente,1340
+18,Masculino,Amarela,Cursando,Eliminado,1785
+18,Masculino,Amarela,Cursando,Presente,2388
+18,Masculino,Amarela,Evasão,Eliminado,8
+18,Masculino,Amarela,Evasão,Presente,1
+18,Masculino,Branca,Concluiu,Eliminado,20817
+18,Masculino,Branca,Concluiu,Presente,27023
+18,Masculino,Branca,Cursando,Eliminado,34605
+18,Masculino,Branca,Cursando,Presente,57536
+18,Masculino,Branca,Evasão,Eliminado,106
+18,Masculino,Branca,Evasão,Presente,45
+18,Masculino,Indígena,Concluiu,Eliminado,334
+18,Masculino,Indígena,Concluiu,Presente,322
+18,Masculino,Indígena,Cursando,Eliminado,923
+18,Masculino,Indígena,Cursando,Presente,780
+18,Masculino,Indígena,Evasão,Eliminado,6
+18,Masculino,Não declarado,Concluiu,Eliminado,864
+18,Masculino,Não declarado,Concluiu,Presente,919
+18,Masculino,Não declarado,Cursando,Eliminado,3403
+18,Masculino,Não declarado,Cursando,Presente,2826
+18,Masculino,Não declarado,Evasão,Eliminado,10
+18,Masculino,Não declarado,Evasão,Presente,1
+18,Masculino,Parda,Concluiu,Eliminado,22353
+18,Masculino,Parda,Concluiu,Presente,26542
+18,Masculino,Parda,Cursando,Eliminado,48765
+18,Masculino,Parda,Cursando,Presente,58451
+18,Masculino,Parda,Evasão,Eliminado,167
+18,Masculino,Parda,Evasão,Presente,56
+18,Masculino,Preta,Concluiu,Eliminado,6277
+18,Masculino,Preta,Concluiu,Presente,6813
+18,Masculino,Preta,Cursando,Eliminado,11984
+18,Masculino,Preta,Cursando,Presente,15100
+18,Masculino,Preta,Evasão,Eliminado,58
+18,Masculino,Preta,Evasão,Presente,16
+19,Feminino,Amarela,Concluiu,Eliminado,3897
+19,Feminino,Amarela,Concluiu,Presente,3834
+19,Feminino,Amarela,Cursando,Eliminado,1196
+19,Feminino,Amarela,Cursando,Presente,966
+19,Feminino,Amarela,Evasão,Eliminado,39
+19,Feminino,Amarela,Evasão,Presente,5
+19,Feminino,Branca,Concluiu,Eliminado,49360
+19,Feminino,Branca,Concluiu,Presente,54888
+19,Feminino,Branca,Cursando,Eliminado,10810
+19,Feminino,Branca,Cursando,Presente,10445
+19,Feminino,Branca,Evasão,Eliminado,265
+19,Feminino,Branca,Evasão,Presente,60
+19,Feminino,Indígena,Concluiu,Eliminado,945
+19,Feminino,Indígena,Concluiu,Presente,751
+19,Feminino,Indígena,Cursando,Eliminado,451
+19,Feminino,Indígena,Cursando,Presente,274
+19,Feminino,Indígena,Evasão,Eliminado,7
+19,Feminino,Não declarado,Concluiu,Eliminado,2318
+19,Feminino,Não declarado,Concluiu,Presente,2436
+19,Feminino,Não declarado,Cursando,Eliminado,1401
+19,Feminino,Não declarado,Cursando,Presente,787
+19,Feminino,Não declarado,Evasão,Eliminado,27
+19,Feminino,Não declarado,Evasão,Presente,10
+19,Feminino,Parda,Concluiu,Eliminado,68640
+19,Feminino,Parda,Concluiu,Presente,67399
+19,Feminino,Parda,Cursando,Eliminado,22619
+19,Feminino,Parda,Cursando,Presente,17192
+19,Feminino,Parda,Evasão,Eliminado,401
+19,Feminino,Parda,Evasão,Presente,124
+19,Feminino,Preta,Concluiu,Eliminado,18244
+19,Feminino,Preta,Concluiu,Presente,17690
+19,Feminino,Preta,Cursando,Eliminado,5891
+19,Feminino,Preta,Cursando,Presente,5261
+19,Feminino,Preta,Evasão,Eliminado,99
+19,Feminino,Preta,Evasão,Presente,34
+19,Masculino,Amarela,Concluiu,Eliminado,1533
+19,Masculino,Amarela,Concluiu,Presente,1643
+19,Masculino,Amarela,Cursando,Eliminado,701
+19,Masculino,Amarela,Cursando,Presente,577
+19,Masculino,Amarela,Evasão,Eliminado,10
+19,Masculino,Amarela,Evasão,Presente,2
+19,Masculino,Branca,Concluiu,Eliminado,30390
+19,Masculino,Branca,Concluiu,Presente,32920
+19,Masculino,Branca,Cursando,Eliminado,9998
+19,Masculino,Branca,Cursando,Presente,9984
+19,Masculino,Branca,Evasão,Eliminado,195
+19,Masculino,Branca,Evasão,Presente,57
+19,Masculino,Indígena,Concluiu,Eliminado,654
+19,Masculino,Indígena,Concluiu,Presente,466
+19,Masculino,Indígena,Cursando,Eliminado,424
+19,Masculino,Indígena,Cursando,Presente,242
+19,Masculino,Indígena,Evasão,Eliminado,9
+19,Masculino,Indígena,Evasão,Presente,1
+19,Masculino,Não declarado,Concluiu,Eliminado,1531
+19,Masculino,Não declarado,Concluiu,Presente,1386
+19,Masculino,Não declarado,Cursando,Eliminado,1534
+19,Masculino,Não declarado,Cursando,Presente,768
+19,Masculino,Não declarado,Evasão,Eliminado,18
+19,Masculino,Não declarado,Evasão,Presente,4
+19,Masculino,Parda,Concluiu,Eliminado,39278
+19,Masculino,Parda,Concluiu,Presente,38188
+19,Masculino,Parda,Cursando,Eliminado,20495
+19,Masculino,Parda,Cursando,Presente,14211
+19,Masculino,Parda,Evasão,Eliminado,243
+19,Masculino,Parda,Evasão,Presente,67
+19,Masculino,Preta,Concluiu,Eliminado,11851
+19,Masculino,Preta,Concluiu,Presente,10733
+19,Masculino,Preta,Cursando,Eliminado,5762
+19,Masculino,Preta,Cursando,Presente,4686
+19,Masculino,Preta,Evasão,Eliminado,98
+19,Masculino,Preta,Evasão,Presente,25
+20,Feminino,Amarela,Concluiu,Eliminado,3819
+20,Feminino,Amarela,Concluiu,Presente,2966
+20,Feminino,Amarela,Cursando,Eliminado,499
+20,Feminino,Amarela,Cursando,Presente,258
+20,Feminino,Amarela,Evasão,Eliminado,31
+20,Feminino,Amarela,Evasão,Presente,12
+20,Feminino,Branca,Concluiu,Eliminado,43770
+20,Feminino,Branca,Concluiu,Presente,37517
+20,Feminino,Branca,Cursando,Eliminado,3622
+20,Feminino,Branca,Cursando,Presente,2187
+20,Feminino,Branca,Evasão,Eliminado,262
+20,Feminino,Branca,Evasão,Presente,53
+20,Feminino,Indígena,Concluiu,Eliminado,927
+20,Feminino,Indígena,Concluiu,Presente,557
+20,Feminino,Indígena,Cursando,Eliminado,187
+20,Feminino,Indígena,Cursando,Presente,96
+20,Feminino,Indígena,Evasão,Eliminado,7
+20,Feminino,Indígena,Evasão,Presente,2
+20,Feminino,Não declarado,Concluiu,Eliminado,2287
+20,Feminino,Não declarado,Concluiu,Presente,1731
+20,Feminino,Não declarado,Cursando,Eliminado,633
+20,Feminino,Não declarado,Cursando,Presente,235
+20,Feminino,Não declarado,Evasão,Eliminado,22
+20,Feminino,Não declarado,Evasão,Presente,4
+20,Feminino,Parda,Concluiu,Eliminado,67431
+20,Feminino,Parda,Concluiu,Presente,51580
+20,Feminino,Parda,Cursando,Eliminado,9544
+20,Feminino,Parda,Cursando,Presente,4850
+20,Feminino,Parda,Evasão,Eliminado,543
+20,Feminino,Parda,Evasão,Presente,111
+20,Feminino,Preta,Concluiu,Eliminado,19360
+20,Feminino,Preta,Concluiu,Presente,14497
+20,Feminino,Preta,Cursando,Eliminado,2558
+20,Feminino,Preta,Cursando,Presente,1617
+20,Feminino,Preta,Evasão,Eliminado,133
+20,Feminino,Preta,Evasão,Presente,34
+20,Masculino,Amarela,Concluiu,Eliminado,1680
+20,Masculino,Amarela,Concluiu,Presente,1302
+20,Masculino,Amarela,Cursando,Eliminado,277
+20,Masculino,Amarela,Cursando,Presente,155
+20,Masculino,Amarela,Evasão,Eliminado,12
+20,Masculino,Amarela,Evasão,Presente,2
+20,Masculino,Branca,Concluiu,Eliminado,28651
+20,Masculino,Branca,Concluiu,Presente,24574
+20,Masculino,Branca,Cursando,Eliminado,3552
+20,Masculino,Branca,Cursando,Presente,2259
+20,Masculino,Branca,Evasão,Eliminado,197
+20,Masculino,Branca,Evasão,Presente,34
+20,Masculino,Indígena,Concluiu,Eliminado,752
+20,Masculino,Indígena,Concluiu,Presente,405
+20,Masculino,Indígena,Cursando,Eliminado,220
+20,Masculino,Indígena,Cursando,Presente,73
+20,Masculino,Indígena,Evasão,Eliminado,3
+20,Masculino,Indígena,Evasão,Presente,3
+20,Masculino,Não declarado,Concluiu,Eliminado,1511
+20,Masculino,Não declarado,Concluiu,Presente,1189
+20,Masculino,Não declarado,Cursando,Eliminado,741
+20,Masculino,Não declarado,Cursando,Presente,251
+20,Masculino,Não declarado,Evasão,Eliminado,22
+20,Masculino,Não declarado,Evasão,Presente,4
+20,Masculino,Parda,Concluiu,Eliminado,42177
+20,Masculino,Parda,Concluiu,Presente,32847
+20,Masculino,Parda,Cursando,Eliminado,9203
+20,Masculino,Parda,Cursando,Presente,4369
+20,Masculino,Parda,Evasão,Eliminado,303
+20,Masculino,Parda,Evasão,Presente,85
+20,Masculino,Preta,Concluiu,Eliminado,14146
+20,Masculino,Preta,Concluiu,Presente,10069
+20,Masculino,Preta,Cursando,Eliminado,2818
+20,Masculino,Preta,Cursando,Presente,1627
+20,Masculino,Preta,Evasão,Eliminado,119
+20,Masculino,Preta,Evasão,Presente,32
+21,Feminino,Amarela,Concluiu,Eliminado,3365
+21,Feminino,Amarela,Concluiu,Presente,1975
+21,Feminino,Amarela,Cursando,Eliminado,212
+21,Feminino,Amarela,Cursando,Presente,94
+21,Feminino,Amarela,Evasão,Eliminado,27
+21,Feminino,Amarela,Evasão,Presente,5
+21,Feminino,Branca,Concluiu,Eliminado,35364
+21,Feminino,Branca,Concluiu,Presente,24756
+21,Feminino,Branca,Cursando,Eliminado,1607
+21,Feminino,Branca,Cursando,Presente,608
+21,Feminino,Branca,Evasão,Eliminado,247
+21,Feminino,Branca,Evasão,Presente,33
+21,Feminino,Indígena,Concluiu,Eliminado,836
+21,Feminino,Indígena,Concluiu,Presente,411
+21,Feminino,Indígena,Cursando,Eliminado,109
+21,Feminino,Indígena,Cursando,Presente,22
+21,Feminino,Indígena,Evasão,Eliminado,13
+21,Feminino,Indígena,Evasão,Presente,1
+21,Feminino,Não declarado,Concluiu,Eliminado,1945
+21,Feminino,Não declarado,Concluiu,Presente,1252
+21,Feminino,Não declarado,Cursando,Eliminado,274
+21,Feminino,Não declarado,Cursando,Presente,79
+21,Feminino,Não declarado,Evasão,Eliminado,17
+21,Feminino,Não declarado,Evasão,Presente,4
+21,Feminino,Parda,Concluiu,Eliminado,59575
+21,Feminino,Parda,Concluiu,Presente,37816
+21,Feminino,Parda,Cursando,Eliminado,4807
+21,Feminino,Parda,Cursando,Presente,1691
+21,Feminino,Parda,Evasão,Eliminado,547
+21,Feminino,Parda,Evasão,Presente,96
+21,Feminino,Preta,Concluiu,Eliminado,17484
+21,Feminino,Preta,Concluiu,Presente,10843
+21,Feminino,Preta,Cursando,Eliminado,1171
+21,Feminino,Preta,Cursando,Presente,581
+21,Feminino,Preta,Evasão,Eliminado,131
+21,Feminino,Preta,Evasão,Presente,30
+21,Masculino,Amarela,Concluiu,Eliminado,1407
+21,Masculino,Amarela,Concluiu,Presente,1021
+21,Masculino,Amarela,Cursando,Eliminado,111
+21,Masculino,Amarela,Cursando,Presente,70
+21,Masculino,Amarela,Evasão,Eliminado,9
+21,Masculino,Branca,Concluiu,Eliminado,24852
+21,Masculino,Branca,Concluiu,Presente,17399
+21,Masculino,Branca,Cursando,Eliminado,1391
+21,Masculino,Branca,Cursando,Presente,616
+21,Masculino,Branca,Evasão,Eliminado,139
+21,Masculino,Branca,Evasão,Presente,27
+21,Masculino,Indígena,Concluiu,Eliminado,660
+21,Masculino,Indígena,Concluiu,Presente,337
+21,Masculino,Indígena,Cursando,Eliminado,104
+21,Masculino,Indígena,Cursando,Presente,39
+21,Masculino,Indígena,Evasão,Eliminado,9
+21,Masculino,Não declarado,Concluiu,Eliminado,1490
+21,Masculino,Não declarado,Concluiu,Presente,987
+21,Masculino,Não declarado,Cursando,Eliminado,338
+21,Masculino,Não declarado,Cursando,Presente,75
+21,Masculino,Não declarado,Evasão,Eliminado,17
+21,Masculino,Não declarado,Evasão,Presente,3
+21,Masculino,Parda,Concluiu,Eliminado,38965
+21,Masculino,Parda,Concluiu,Presente,25555
+21,Masculino,Parda,Cursando,Eliminado,4334
+21,Masculino,Parda,Cursando,Presente,1502
+21,Masculino,Parda,Evasão,Eliminado,298
+21,Masculino,Parda,Evasão,Presente,62
+21,Masculino,Preta,Concluiu,Eliminado,13616
+21,Masculino,Preta,Concluiu,Presente,8324
+21,Masculino,Preta,Cursando,Eliminado,1262
+21,Masculino,Preta,Cursando,Presente,559
+21,Masculino,Preta,Evasão,Eliminado,110
+21,Masculino,Preta,Evasão,Presente,18
+22,Feminino,Amarela,Concluiu,Eliminado,2758
+22,Feminino,Amarela,Concluiu,Presente,1470
+22,Feminino,Amarela,Cursando,Eliminado,112
+22,Feminino,Amarela,Cursando,Presente,34
+22,Feminino,Amarela,Evasão,Eliminado,19
+22,Feminino,Amarela,Evasão,Presente,4
+22,Feminino,Branca,Concluiu,Eliminado,28572
+22,Feminino,Branca,Concluiu,Presente,17127
+22,Feminino,Branca,Cursando,Eliminado,955
+22,Feminino,Branca,Cursando,Presente,325
+22,Feminino,Branca,Evasão,Eliminado,237
+22,Feminino,Branca,Evasão,Presente,35
+22,Feminino,Indígena,Concluiu,Eliminado,614
+22,Feminino,Indígena,Concluiu,Presente,358
+22,Feminino,Indígena,Cursando,Eliminado,70
+22,Feminino,Indígena,Cursando,Presente,14
+22,Feminino,Indígena,Evasão,Eliminado,7
+22,Feminino,Indígena,Evasão,Presente,1
+22,Feminino,Não declarado,Concluiu,Eliminado,1512
+22,Feminino,Não declarado,Concluiu,Presente,926
+22,Feminino,Não declarado,Cursando,Eliminado,175
+22,Feminino,Não declarado,Cursando,Presente,40
+22,Feminino,Não declarado,Evasão,Eliminado,11
+22,Feminino,Não declarado,Evasão,Presente,3
+22,Feminino,Parda,Concluiu,Eliminado,49830
+22,Feminino,Parda,Concluiu,Presente,27335
+22,Feminino,Parda,Cursando,Eliminado,3010
+22,Feminino,Parda,Cursando,Presente,815
+22,Feminino,Parda,Evasão,Eliminado,515
+22,Feminino,Parda,Evasão,Presente,71
+22,Feminino,Preta,Concluiu,Eliminado,14880
+22,Feminino,Preta,Concluiu,Presente,8084
+22,Feminino,Preta,Cursando,Eliminado,723
+22,Feminino,Preta,Cursando,Presente,218
+22,Feminino,Preta,Evasão,Eliminado,143
+22,Feminino,Preta,Evasão,Presente,16
+22,Masculino,Amarela,Concluiu,Eliminado,1241
+22,Masculino,Amarela,Concluiu,Presente,710
+22,Masculino,Amarela,Cursando,Eliminado,57
+22,Masculino,Amarela,Cursando,Presente,15
+22,Masculino,Amarela,Evasão,Eliminado,15
+22,Masculino,Amarela,Evasão,Presente,5
+22,Masculino,Branca,Concluiu,Eliminado,20399
+22,Masculino,Branca,Concluiu,Presente,12614
+22,Masculino,Branca,Cursando,Eliminado,783
+22,Masculino,Branca,Cursando,Presente,260
+22,Masculino,Branca,Evasão,Eliminado,152
+22,Masculino,Branca,Evasão,Presente,25
+22,Masculino,Indígena,Concluiu,Eliminado,597
+22,Masculino,Indígena,Concluiu,Presente,260
+22,Masculino,Indígena,Cursando,Eliminado,68
+22,Masculino,Indígena,Cursando,Presente,27
+22,Masculino,Indígena,Evasão,Eliminado,10
+22,Masculino,Não declarado,Concluiu,Eliminado,1278
+22,Masculino,Não declarado,Concluiu,Presente,684
+22,Masculino,Não declarado,Cursando,Eliminado,197
+22,Masculino,Não declarado,Cursando,Presente,41
+22,Masculino,Não declarado,Evasão,Eliminado,26
+22,Masculino,Não declarado,Evasão,Presente,4
+22,Masculino,Parda,Concluiu,Eliminado,32970
+22,Masculino,Parda,Concluiu,Presente,18922
+22,Masculino,Parda,Cursando,Eliminado,2318
+22,Masculino,Parda,Cursando,Presente,632
+22,Masculino,Parda,Evasão,Eliminado,282
+22,Masculino,Parda,Evasão,Presente,47
+22,Masculino,Preta,Concluiu,Eliminado,11662
+22,Masculino,Preta,Concluiu,Presente,6375
+22,Masculino,Preta,Cursando,Eliminado,645
+22,Masculino,Preta,Cursando,Presente,246
+22,Masculino,Preta,Evasão,Eliminado,101
+22,Masculino,Preta,Evasão,Presente,22
+23,Feminino,Amarela,Concluiu,Eliminado,2459
+23,Feminino,Amarela,Concluiu,Presente,1103
+23,Feminino,Amarela,Cursando,Eliminado,97
+23,Feminino,Amarela,Cursando,Presente,29
+23,Feminino,Amarela,Evasão,Eliminado,31
+23,Feminino,Amarela,Evasão,Presente,1
+23,Feminino,Branca,Concluiu,Eliminado,25559
+23,Feminino,Branca,Concluiu,Presente,13492
+23,Feminino,Branca,Cursando,Eliminado,775
+23,Feminino,Branca,Cursando,Presente,206
+23,Feminino,Branca,Evasão,Eliminado,280
+23,Feminino,Branca,Evasão,Presente,25
+23,Feminino,Indígena,Concluiu,Eliminado,632
+23,Feminino,Indígena,Concluiu,Presente,276
+23,Feminino,Indígena,Cursando,Eliminado,49
+23,Feminino,Indígena,Cursando,Presente,14
+23,Feminino,Indígena,Evasão,Eliminado,14
+23,Feminino,Indígena,Evasão,Presente,1
+23,Feminino,Não declarado,Concluiu,Eliminado,1387
+23,Feminino,Não declarado,Concluiu,Presente,785
+23,Feminino,Não declarado,Cursando,Eliminado,139
+23,Feminino,Não declarado,Cursando,Presente,29
+23,Feminino,Não declarado,Evasão,Eliminado,17
+23,Feminino,Não declarado,Evasão,Presente,3
+23,Feminino,Parda,Concluiu,Eliminado,45648
+23,Feminino,Parda,Concluiu,Presente,22470
+23,Feminino,Parda,Cursando,Eliminado,2310
+23,Feminino,Parda,Cursando,Presente,566
+23,Feminino,Parda,Evasão,Eliminado,588
+23,Feminino,Parda,Evasão,Presente,79
+23,Feminino,Preta,Concluiu,Eliminado,13880
+23,Feminino,Preta,Concluiu,Presente,6680
+23,Feminino,Preta,Cursando,Eliminado,527
+23,Feminino,Preta,Cursando,Presente,137
+23,Feminino,Preta,Evasão,Eliminado,139
+23,Feminino,Preta,Evasão,Presente,18
+23,Masculino,Amarela,Concluiu,Eliminado,1144
+23,Masculino,Amarela,Concluiu,Presente,590
+23,Masculino,Amarela,Cursando,Eliminado,52
+23,Masculino,Amarela,Cursando,Presente,15
+23,Masculino,Amarela,Evasão,Eliminado,12
+23,Masculino,Amarela,Evasão,Presente,1
+23,Masculino,Branca,Concluiu,Eliminado,18465
+23,Masculino,Branca,Concluiu,Presente,10128
+23,Masculino,Branca,Cursando,Eliminado,564
+23,Masculino,Branca,Cursando,Presente,133
+23,Masculino,Branca,Evasão,Eliminado,140
+23,Masculino,Branca,Evasão,Presente,20
+23,Masculino,Indígena,Concluiu,Eliminado,537
+23,Masculino,Indígena,Concluiu,Presente,205
+23,Masculino,Indígena,Cursando,Eliminado,52
+23,Masculino,Indígena,Cursando,Presente,8
+23,Masculino,Indígena,Evasão,Eliminado,3
+23,Masculino,Não declarado,Concluiu,Eliminado,1141
+23,Masculino,Não declarado,Concluiu,Presente,589
+23,Masculino,Não declarado,Cursando,Eliminado,121
+23,Masculino,Não declarado,Cursando,Presente,20
+23,Masculino,Não declarado,Evasão,Eliminado,14
+23,Masculino,Não declarado,Evasão,Presente,3
+23,Masculino,Parda,Concluiu,Eliminado,30120
+23,Masculino,Parda,Concluiu,Presente,15840
+23,Masculino,Parda,Cursando,Eliminado,1630
+23,Masculino,Parda,Cursando,Presente,354
+23,Masculino,Parda,Evasão,Eliminado,267
+23,Masculino,Parda,Evasão,Presente,46
+23,Masculino,Preta,Concluiu,Eliminado,10956
+23,Masculino,Preta,Concluiu,Presente,5474
+23,Masculino,Preta,Cursando,Eliminado,456
+23,Masculino,Preta,Cursando,Presente,124
+23,Masculino,Preta,Evasão,Eliminado,116
+23,Masculino,Preta,Evasão,Presente,27
+24,Feminino,Amarela,Concluiu,Eliminado,2145
+24,Feminino,Amarela,Concluiu,Presente,928
+24,Feminino,Amarela,Cursando,Eliminado,96
+24,Feminino,Amarela,Cursando,Presente,22
+24,Feminino,Amarela,Evasão,Eliminado,24
+24,Feminino,Amarela,Evasão,Presente,3
+24,Feminino,Branca,Concluiu,Eliminado,22434
+24,Feminino,Branca,Concluiu,Presente,10366
+24,Feminino,Branca,Cursando,Eliminado,614
+24,Feminino,Branca,Cursando,Presente,151
+24,Feminino,Branca,Evasão,Eliminado,266
+24,Feminino,Branca,Evasão,Presente,28
+24,Feminino,Indígena,Concluiu,Eliminado,569
+24,Feminino,Indígena,Concluiu,Presente,241
+24,Feminino,Indígena,Cursando,Eliminado,46
+24,Feminino,Indígena,Cursando,Presente,5
+24,Feminino,Indígena,Evasão,Eliminado,5
+24,Feminino,Indígena,Evasão,Presente,2
+24,Feminino,Não declarado,Concluiu,Eliminado,1200
+24,Feminino,Não declarado,Concluiu,Presente,659
+24,Feminino,Não declarado,Cursando,Eliminado,114
+24,Feminino,Não declarado,Cursando,Presente,18
+24,Feminino,Não declarado,Evasão,Eliminado,18
+24,Feminino,Não declarado,Evasão,Presente,3
+24,Feminino,Parda,Concluiu,Eliminado,40068
+24,Feminino,Parda,Concluiu,Presente,18205
+24,Feminino,Parda,Cursando,Eliminado,1903
+24,Feminino,Parda,Cursando,Presente,438
+24,Feminino,Parda,Evasão,Eliminado,545
+24,Feminino,Parda,Evasão,Presente,89
+24,Feminino,Preta,Concluiu,Eliminado,11975
+24,Feminino,Preta,Concluiu,Presente,5499
+24,Feminino,Preta,Cursando,Eliminado,417
+24,Feminino,Preta,Cursando,Presente,111
+24,Feminino,Preta,Evasão,Eliminado,131
+24,Feminino,Preta,Evasão,Presente,24
+24,Masculino,Amarela,Concluiu,Eliminado,973
+24,Masculino,Amarela,Concluiu,Presente,476
+24,Masculino,Amarela,Cursando,Eliminado,37
+24,Masculino,Amarela,Cursando,Presente,11
+24,Masculino,Amarela,Evasão,Eliminado,11
+24,Masculino,Amarela,Evasão,Presente,2
+24,Masculino,Branca,Concluiu,Eliminado,16522
+24,Masculino,Branca,Concluiu,Presente,8134
+24,Masculino,Branca,Cursando,Eliminado,395
+24,Masculino,Branca,Cursando,Presente,104
+24,Masculino,Branca,Evasão,Eliminado,146
+24,Masculino,Branca,Evasão,Presente,26
+24,Masculino,Indígena,Concluiu,Eliminado,467
+24,Masculino,Indígena,Concluiu,Presente,185
+24,Masculino,Indígena,Cursando,Eliminado,39
+24,Masculino,Indígena,Cursando,Presente,9
+24,Masculino,Indígena,Evasão,Eliminado,6
+24,Masculino,Indígena,Evasão,Presente,2
+24,Masculino,Não declarado,Concluiu,Eliminado,1028
+24,Masculino,Não declarado,Concluiu,Presente,541
+24,Masculino,Não declarado,Cursando,Eliminado,90
+24,Masculino,Não declarado,Cursando,Presente,12
+24,Masculino,Não declarado,Evasão,Eliminado,16
+24,Masculino,Não declarado,Evasão,Presente,2
+24,Masculino,Parda,Concluiu,Eliminado,26798
+24,Masculino,Parda,Concluiu,Presente,12810
+24,Masculino,Parda,Cursando,Eliminado,1196
+24,Masculino,Parda,Cursando,Presente,242
+24,Masculino,Parda,Evasão,Eliminado,265
+24,Masculino,Parda,Evasão,Presente,38
+24,Masculino,Preta,Concluiu,Eliminado,9755
+24,Masculino,Preta,Concluiu,Presente,4458
+24,Masculino,Preta,Cursando,Eliminado,333
+24,Masculino,Preta,Cursando,Presente,85
+24,Masculino,Preta,Evasão,Eliminado,94
+24,Masculino,Preta,Evasão,Presente,19
+25,Feminino,Amarela,Concluiu,Eliminado,1945
+25,Feminino,Amarela,Concluiu,Presente,768
+25,Feminino,Amarela,Cursando,Eliminado,58
+25,Feminino,Amarela,Cursando,Presente,12
+25,Feminino,Amarela,Evasão,Eliminado,19
+25,Feminino,Amarela,Evasão,Presente,3
+25,Feminino,Branca,Concluiu,Eliminado,19810
+25,Feminino,Branca,Concluiu,Presente,8376
+25,Feminino,Branca,Cursando,Eliminado,511
+25,Feminino,Branca,Cursando,Presente,140
+25,Feminino,Branca,Evasão,Eliminado,257
+25,Feminino,Branca,Evasão,Presente,32
+25,Feminino,Indígena,Concluiu,Eliminado,459
+25,Feminino,Indígena,Concluiu,Presente,176
+25,Feminino,Indígena,Cursando,Eliminado,37
+25,Feminino,Indígena,Cursando,Presente,11
+25,Feminino,Indígena,Evasão,Eliminado,10
+25,Feminino,Indígena,Evasão,Presente,3
+25,Feminino,Não declarado,Concluiu,Eliminado,1123
+25,Feminino,Não declarado,Concluiu,Presente,527
+25,Feminino,Não declarado,Cursando,Eliminado,90
+25,Feminino,Não declarado,Cursando,Presente,13
+25,Feminino,Não declarado,Evasão,Eliminado,20
+25,Feminino,Não declarado,Evasão,Presente,1
+25,Feminino,Parda,Concluiu,Eliminado,35416
+25,Feminino,Parda,Concluiu,Presente,14939
+25,Feminino,Parda,Cursando,Eliminado,1571
+25,Feminino,Parda,Cursando,Presente,363
+25,Feminino,Parda,Evasão,Eliminado,559
+25,Feminino,Parda,Evasão,Presente,83
+25,Feminino,Preta,Concluiu,Eliminado,10864
+25,Feminino,Preta,Concluiu,Presente,4534
+25,Feminino,Preta,Cursando,Eliminado,352
+25,Feminino,Preta,Cursando,Presente,89
+25,Feminino,Preta,Evasão,Eliminado,142
+25,Feminino,Preta,Evasão,Presente,23
+25,Masculino,Amarela,Concluiu,Eliminado,925
+25,Masculino,Amarela,Concluiu,Presente,397
+25,Masculino,Amarela,Cursando,Eliminado,31
+25,Masculino,Amarela,Cursando,Presente,4
+25,Masculino,Amarela,Evasão,Eliminado,7
+25,Masculino,Branca,Concluiu,Eliminado,14726
+25,Masculino,Branca,Concluiu,Presente,6605
+25,Masculino,Branca,Cursando,Eliminado,309
+25,Masculino,Branca,Cursando,Presente,83
+25,Masculino,Branca,Evasão,Eliminado,170
+25,Masculino,Branca,Evasão,Presente,22
+25,Masculino,Indígena,Concluiu,Eliminado,406
+25,Masculino,Indígena,Concluiu,Presente,145
+25,Masculino,Indígena,Cursando,Eliminado,36
+25,Masculino,Indígena,Cursando,Presente,6
+25,Masculino,Indígena,Evasão,Eliminado,3
+25,Masculino,Indígena,Evasão,Presente,2
+25,Masculino,Não declarado,Concluiu,Eliminado,895
+25,Masculino,Não declarado,Concluiu,Presente,460
+25,Masculino,Não declarado,Cursando,Eliminado,68
+25,Masculino,Não declarado,Cursando,Presente,13
+25,Masculino,Não declarado,Evasão,Eliminado,14
+25,Masculino,Parda,Concluiu,Eliminado,23671
+25,Masculino,Parda,Concluiu,Presente,10668
+25,Masculino,Parda,Cursando,Eliminado,1022
+25,Masculino,Parda,Cursando,Presente,221
+25,Masculino,Parda,Evasão,Eliminado,279
+25,Masculino,Parda,Evasão,Presente,42
+25,Masculino,Preta,Concluiu,Eliminado,8687
+25,Masculino,Preta,Concluiu,Presente,3646
+25,Masculino,Preta,Cursando,Eliminado,278
+25,Masculino,Preta,Cursando,Presente,51
+25,Masculino,Preta,Evasão,Eliminado,104
+25,Masculino,Preta,Evasão,Presente,12
+26-30,Feminino,Amarela,Concluiu,Eliminado,6011
+26-30,Feminino,Amarela,Concluiu,Presente,2190
+26-30,Feminino,Amarela,Cursando,Eliminado,170
+26-30,Feminino,Amarela,Cursando,Presente,31
+26-30,Feminino,Amarela,Evasão,Eliminado,103
+26-30,Feminino,Amarela,Evasão,Presente,14
+26-30,Feminino,Branca,Concluiu,Eliminado,64569
+26-30,Feminino,Branca,Concluiu,Presente,25037
+26-30,Feminino,Branca,Cursando,Eliminado,1649
+26-30,Feminino,Branca,Cursando,Presente,371
+26-30,Feminino,Branca,Evasão,Eliminado,929
+26-30,Feminino,Branca,Evasão,Presente,106
+26-30,Feminino,Indígena,Concluiu,Eliminado,1600
+26-30,Feminino,Indígena,Concluiu,Presente,577
+26-30,Feminino,Indígena,Cursando,Eliminado,98
+26-30,Feminino,Indígena,Cursando,Presente,26
+26-30,Feminino,Indígena,Evasão,Eliminado,21
+26-30,Feminino,Indígena,Evasão,Presente,4
+26-30,Feminino,Não declarado,Concluiu,Eliminado,4182
+26-30,Feminino,Não declarado,Concluiu,Presente,1750
+26-30,Feminino,Não declarado,Cursando,Eliminado,302
+26-30,Feminino,Não declarado,Cursando,Presente,51
+26-30,Feminino,Não declarado,Evasão,Eliminado,64
+26-30,Feminino,Não declarado,Evasão,Presente,12
+26-30,Feminino,Parda,Concluiu,Eliminado,117333
+26-30,Feminino,Parda,Concluiu,Presente,45649
+26-30,Feminino,Parda,Cursando,Eliminado,5263
+26-30,Feminino,Parda,Cursando,Presente,1168
+26-30,Feminino,Parda,Evasão,Eliminado,1833
+26-30,Feminino,Parda,Evasão,Presente,238
+26-30,Feminino,Preta,Concluiu,Eliminado,35895
+26-30,Feminino,Preta,Concluiu,Presente,13722
+26-30,Feminino,Preta,Cursando,Eliminado,1063
+26-30,Feminino,Preta,Cursando,Presente,224
+26-30,Feminino,Preta,Evasão,Eliminado,498
+26-30,Feminino,Preta,Evasão,Presente,56
+26-30,Masculino,Amarela,Concluiu,Eliminado,2997
+26-30,Masculino,Amarela,Concluiu,Presente,1153
+26-30,Masculino,Amarela,Cursando,Eliminado,71
+26-30,Masculino,Amarela,Cursando,Presente,17
+26-30,Masculino,Amarela,Evasão,Eliminado,41
+26-30,Masculino,Amarela,Evasão,Presente,1
+26-30,Masculino,Branca,Concluiu,Eliminado,49317
+26-30,Masculino,Branca,Concluiu,Presente,20580
+26-30,Masculino,Branca,Cursando,Eliminado,989
+26-30,Masculino,Branca,Cursando,Presente,224
+26-30,Masculino,Branca,Evasão,Eliminado,634
+26-30,Masculino,Branca,Evasão,Presente,72
+26-30,Masculino,Indígena,Concluiu,Eliminado,1542
+26-30,Masculino,Indígena,Concluiu,Presente,502
+26-30,Masculino,Indígena,Cursando,Eliminado,80
+26-30,Masculino,Indígena,Cursando,Presente,10
+26-30,Masculino,Indígena,Evasão,Eliminado,27
+26-30,Masculino,Indígena,Evasão,Presente,2
+26-30,Masculino,Não declarado,Concluiu,Eliminado,3492
+26-30,Masculino,Não declarado,Concluiu,Presente,1564
+26-30,Masculino,Não declarado,Cursando,Eliminado,190
+26-30,Masculino,Não declarado,Cursando,Presente,24
+26-30,Masculino,Não declarado,Evasão,Eliminado,65
+26-30,Masculino,Não declarado,Evasão,Presente,6
+26-30,Masculino,Parda,Concluiu,Eliminado,79544
+26-30,Masculino,Parda,Concluiu,Presente,32978
+26-30,Masculino,Parda,Cursando,Eliminado,2761
+26-30,Masculino,Parda,Cursando,Presente,490
+26-30,Masculino,Parda,Evasão,Eliminado,1019
+26-30,Masculino,Parda,Evasão,Presente,151
+26-30,Masculino,Preta,Concluiu,Eliminado,29235
+26-30,Masculino,Preta,Concluiu,Presente,11405
+26-30,Masculino,Preta,Cursando,Eliminado,811
+26-30,Masculino,Preta,Cursando,Presente,173
+26-30,Masculino,Preta,Evasão,Eliminado,407
+26-30,Masculino,Preta,Evasão,Presente,59
+31-35,Feminino,Amarela,Concluiu,Eliminado,3591
+31-35,Feminino,Amarela,Concluiu,Presente,1269
+31-35,Feminino,Amarela,Cursando,Eliminado,105
+31-35,Feminino,Amarela,Cursando,Presente,25
+31-35,Feminino,Amarela,Evasão,Eliminado,46
+31-35,Feminino,Amarela,Evasão,Presente,11
+31-35,Feminino,Branca,Concluiu,Eliminado,37395
+31-35,Feminino,Branca,Concluiu,Presente,13800
+31-35,Feminino,Branca,Cursando,Eliminado,1032
+31-35,Feminino,Branca,Cursando,Presente,240
+31-35,Feminino,Branca,Evasão,Eliminado,568
+31-35,Feminino,Branca,Evasão,Presente,67
+31-35,Feminino,Indígena,Concluiu,Eliminado,901
+31-35,Feminino,Indígena,Concluiu,Presente,338
+31-35,Feminino,Indígena,Cursando,Eliminado,48
+31-35,Feminino,Indígena,Cursando,Presente,15
+31-35,Feminino,Indígena,Evasão,Eliminado,12
+31-35,Feminino,Indígena,Evasão,Presente,2
+31-35,Feminino,Não declarado,Concluiu,Eliminado,2593
+31-35,Feminino,Não declarado,Concluiu,Presente,1125
+31-35,Feminino,Não declarado,Cursando,Eliminado,186
+31-35,Feminino,Não declarado,Cursando,Presente,42
+31-35,Feminino,Não declarado,Evasão,Eliminado,40
+31-35,Feminino,Não declarado,Evasão,Presente,7
+31-35,Feminino,Parda,Concluiu,Eliminado,71250
+31-35,Feminino,Parda,Concluiu,Presente,27268
+31-35,Feminino,Parda,Cursando,Eliminado,3464
+31-35,Feminino,Parda,Cursando,Presente,832
+31-35,Feminino,Parda,Evasão,Eliminado,993
+31-35,Feminino,Parda,Evasão,Presente,124
+31-35,Feminino,Preta,Concluiu,Eliminado,22014
+31-35,Feminino,Preta,Concluiu,Presente,8021
+31-35,Feminino,Preta,Cursando,Eliminado,643
+31-35,Feminino,Preta,Cursando,Presente,203
+31-35,Feminino,Preta,Evasão,Eliminado,301
+31-35,Feminino,Preta,Evasão,Presente,39
+31-35,Masculino,Amarela,Concluiu,Eliminado,1633
+31-35,Masculino,Amarela,Concluiu,Presente,620
+31-35,Masculino,Amarela,Cursando,Eliminado,46
+31-35,Masculino,Amarela,Cursando,Presente,14
+31-35,Masculino,Amarela,Evasão,Eliminado,22
+31-35,Masculino,Branca,Concluiu,Eliminado,27485
+31-35,Masculino,Branca,Concluiu,Presente,11190
+31-35,Masculino,Branca,Cursando,Eliminado,449
+31-35,Masculino,Branca,Cursando,Presente,111
+31-35,Masculino,Branca,Evasão,Eliminado,334
+31-35,Masculino,Branca,Evasão,Presente,45
+31-35,Masculino,Indígena,Concluiu,Eliminado,836
+31-35,Masculino,Indígena,Concluiu,Presente,294
+31-35,Masculino,Indígena,Cursando,Eliminado,52
+31-35,Masculino,Indígena,Cursando,Presente,5
+31-35,Masculino,Indígena,Evasão,Eliminado,17
+31-35,Masculino,Indígena,Evasão,Presente,1
+31-35,Masculino,Não declarado,Concluiu,Eliminado,2293
+31-35,Masculino,Não declarado,Concluiu,Presente,1072
+31-35,Masculino,Não declarado,Cursando,Eliminado,96
+31-35,Masculino,Não declarado,Cursando,Presente,13
+31-35,Masculino,Não declarado,Evasão,Eliminado,34
+31-35,Masculino,Não declarado,Evasão,Presente,5
+31-35,Masculino,Parda,Concluiu,Eliminado,49193
+31-35,Masculino,Parda,Concluiu,Presente,19940
+31-35,Masculino,Parda,Cursando,Eliminado,1454
+31-35,Masculino,Parda,Cursando,Presente,277
+31-35,Masculino,Parda,Evasão,Eliminado,604
+31-35,Masculino,Parda,Evasão,Presente,73
+31-35,Masculino,Preta,Concluiu,Eliminado,17359
+31-35,Masculino,Preta,Concluiu,Presente,6895
+31-35,Masculino,Preta,Cursando,Eliminado,358
+31-35,Masculino,Preta,Cursando,Presente,91
+31-35,Masculino,Preta,Evasão,Eliminado,248
+31-35,Masculino,Preta,Evasão,Presente,39
+36-40,Feminino,Amarela,Concluiu,Eliminado,2259
+36-40,Feminino,Amarela,Concluiu,Presente,842
+36-40,Feminino,Amarela,Cursando,Eliminado,92
+36-40,Feminino,Amarela,Cursando,Presente,15
+36-40,Feminino,Amarela,Evasão,Eliminado,24
+36-40,Feminino,Amarela,Evasão,Presente,3
+36-40,Feminino,Branca,Concluiu,Eliminado,28154
+36-40,Feminino,Branca,Concluiu,Presente,10426
+36-40,Feminino,Branca,Cursando,Eliminado,884
+36-40,Feminino,Branca,Cursando,Presente,229
+36-40,Feminino,Branca,Evasão,Eliminado,355
+36-40,Feminino,Branca,Evasão,Presente,46
+36-40,Feminino,Indígena,Concluiu,Eliminado,524
+36-40,Feminino,Indígena,Concluiu,Presente,197
+36-40,Feminino,Indígena,Cursando,Eliminado,43
+36-40,Feminino,Indígena,Cursando,Presente,6
+36-40,Feminino,Indígena,Evasão,Eliminado,10
+36-40,Feminino,Indígena,Evasão,Presente,4
+36-40,Feminino,Não declarado,Concluiu,Eliminado,1766
+36-40,Feminino,Não declarado,Concluiu,Presente,733
+36-40,Feminino,Não declarado,Cursando,Eliminado,134
+36-40,Feminino,Não declarado,Cursando,Presente,21
+36-40,Feminino,Não declarado,Evasão,Eliminado,28
+36-40,Feminino,Não declarado,Evasão,Presente,3
+36-40,Feminino,Parda,Concluiu,Eliminado,49606
+36-40,Feminino,Parda,Concluiu,Presente,20337
+36-40,Feminino,Parda,Cursando,Eliminado,2345
+36-40,Feminino,Parda,Cursando,Presente,619
+36-40,Feminino,Parda,Evasão,Eliminado,671
+36-40,Feminino,Parda,Evasão,Presente,98
+36-40,Feminino,Preta,Concluiu,Eliminado,15201
+36-40,Feminino,Preta,Concluiu,Presente,6032
+36-40,Feminino,Preta,Cursando,Eliminado,459
+36-40,Feminino,Preta,Cursando,Presente,155
+36-40,Feminino,Preta,Evasão,Eliminado,183
+36-40,Feminino,Preta,Evasão,Presente,27
+36-40,Masculino,Amarela,Concluiu,Eliminado,933
+36-40,Masculino,Amarela,Concluiu,Presente,378
+36-40,Masculino,Amarela,Cursando,Eliminado,19
+36-40,Masculino,Amarela,Cursando,Presente,7
+36-40,Masculino,Amarela,Evasão,Eliminado,11
+36-40,Masculino,Branca,Concluiu,Eliminado,17371
+36-40,Masculino,Branca,Concluiu,Presente,7221
+36-40,Masculino,Branca,Cursando,Eliminado,332
+36-40,Masculino,Branca,Cursando,Presente,89
+36-40,Masculino,Branca,Evasão,Eliminado,221
+36-40,Masculino,Branca,Evasão,Presente,23
+36-40,Masculino,Indígena,Concluiu,Eliminado,498
+36-40,Masculino,Indígena,Concluiu,Presente,169
+36-40,Masculino,Indígena,Cursando,Eliminado,36
+36-40,Masculino,Indígena,Cursando,Presente,1
+36-40,Masculino,Indígena,Evasão,Eliminado,5
+36-40,Masculino,Indígena,Evasão,Presente,1
+36-40,Masculino,Não declarado,Concluiu,Eliminado,1440
+36-40,Masculino,Não declarado,Concluiu,Presente,639
+36-40,Masculino,Não declarado,Cursando,Eliminado,77
+36-40,Masculino,Não declarado,Cursando,Presente,11
+36-40,Masculino,Não declarado,Evasão,Eliminado,18
+36-40,Masculino,Não declarado,Evasão,Presente,5
+36-40,Masculino,Parda,Concluiu,Eliminado,31470
+36-40,Masculino,Parda,Concluiu,Presente,13893
+36-40,Masculino,Parda,Cursando,Eliminado,914
+36-40,Masculino,Parda,Cursando,Presente,211
+36-40,Masculino,Parda,Evasão,Eliminado,345
+36-40,Masculino,Parda,Evasão,Presente,54
+36-40,Masculino,Preta,Concluiu,Eliminado,11270
+36-40,Masculino,Preta,Concluiu,Presente,4418
+36-40,Masculino,Preta,Cursando,Eliminado,228
+36-40,Masculino,Preta,Cursando,Presente,69
+36-40,Masculino,Preta,Evasão,Eliminado,94
+36-40,Masculino,Preta,Evasão,Presente,25
+41-45,Feminino,Amarela,Concluiu,Eliminado,1150
+41-45,Feminino,Amarela,Concluiu,Presente,495
+41-45,Feminino,Amarela,Cursando,Eliminado,36
+41-45,Feminino,Amarela,Cursando,Presente,12
+41-45,Feminino,Amarela,Evasão,Eliminado,17
+41-45,Feminino,Amarela,Evasão,Presente,3
+41-45,Feminino,Branca,Concluiu,Eliminado,18476
+41-45,Feminino,Branca,Concluiu,Presente,7358
+41-45,Feminino,Branca,Cursando,Eliminado,626
+41-45,Feminino,Branca,Cursando,Presente,204
+41-45,Feminino,Branca,Evasão,Eliminado,276
+41-45,Feminino,Branca,Evasão,Presente,39
+41-45,Feminino,Indígena,Concluiu,Eliminado,272
+41-45,Feminino,Indígena,Concluiu,Presente,106
+41-45,Feminino,Indígena,Cursando,Eliminado,21
+41-45,Feminino,Indígena,Cursando,Presente,1
+41-45,Feminino,Indígena,Evasão,Eliminado,7
+41-45,Feminino,Não declarado,Concluiu,Eliminado,1003
+41-45,Feminino,Não declarado,Concluiu,Presente,461
+41-45,Feminino,Não declarado,Cursando,Eliminado,83
+41-45,Feminino,Não declarado,Cursando,Presente,19
+41-45,Feminino,Não declarado,Evasão,Eliminado,17
+41-45,Feminino,Não declarado,Evasão,Presente,1
+41-45,Feminino,Parda,Concluiu,Eliminado,29662
+41-45,Feminino,Parda,Concluiu,Presente,13062
+41-45,Feminino,Parda,Cursando,Eliminado,1313
+41-45,Feminino,Parda,Cursando,Presente,414
+41-45,Feminino,Parda,Evasão,Eliminado,361
+41-45,Feminino,Parda,Evasão,Presente,57
+41-45,Feminino,Preta,Concluiu,Eliminado,9192
+41-45,Feminino,Preta,Concluiu,Presente,3871
+41-45,Feminino,Preta,Cursando,Eliminado,289
+41-45,Feminino,Preta,Cursando,Presente,87
+41-45,Feminino,Preta,Evasão,Eliminado,133
+41-45,Feminino,Preta,Evasão,Presente,26
+41-45,Masculino,Amarela,Concluiu,Eliminado,415
+41-45,Masculino,Amarela,Concluiu,Presente,195
+41-45,Masculino,Amarela,Cursando,Eliminado,12
+41-45,Masculino,Amarela,Cursando,Presente,2
+41-45,Masculino,Amarela,Evasão,Eliminado,7
+41-45,Masculino,Branca,Concluiu,Eliminado,10277
+41-45,Masculino,Branca,Concluiu,Presente,4647
+41-45,Masculino,Branca,Cursando,Eliminado,200
+41-45,Masculino,Branca,Cursando,Presente,73
+41-45,Masculino,Branca,Evasão,Eliminado,143
+41-45,Masculino,Branca,Evasão,Presente,23
+41-45,Masculino,Indígena,Concluiu,Eliminado,279
+41-45,Masculino,Indígena,Concluiu,Presente,103
+41-45,Masculino,Indígena,Cursando,Eliminado,21
+41-45,Masculino,Indígena,Cursando,Presente,3
+41-45,Masculino,Indígena,Evasão,Eliminado,5
+41-45,Masculino,Indígena,Evasão,Presente,1
+41-45,Masculino,Não declarado,Concluiu,Eliminado,783
+41-45,Masculino,Não declarado,Concluiu,Presente,351
+41-45,Masculino,Não declarado,Cursando,Eliminado,44
+41-45,Masculino,Não declarado,Cursando,Presente,6
+41-45,Masculino,Não declarado,Evasão,Eliminado,9
+41-45,Masculino,Não declarado,Evasão,Presente,1
+41-45,Masculino,Parda,Concluiu,Eliminado,18150
+41-45,Masculino,Parda,Concluiu,Presente,8590
+41-45,Masculino,Parda,Cursando,Eliminado,572
+41-45,Masculino,Parda,Cursando,Presente,157
+41-45,Masculino,Parda,Evasão,Eliminado,217
+41-45,Masculino,Parda,Evasão,Presente,31
+41-45,Masculino,Preta,Concluiu,Eliminado,6157
+41-45,Masculino,Preta,Concluiu,Presente,2888
+41-45,Masculino,Preta,Cursando,Eliminado,128
+41-45,Masculino,Preta,Cursando,Presente,60
+41-45,Masculino,Preta,Evasão,Eliminado,81
+41-45,Masculino,Preta,Evasão,Presente,14
+46-50,Feminino,Amarela,Concluiu,Eliminado,585
+46-50,Feminino,Amarela,Concluiu,Presente,262
+46-50,Feminino,Amarela,Cursando,Eliminado,28
+46-50,Feminino,Amarela,Cursando,Presente,11
+46-50,Feminino,Amarela,Evasão,Eliminado,7
+46-50,Feminino,Amarela,Evasão,Presente,1
+46-50,Feminino,Branca,Concluiu,Eliminado,11558
+46-50,Feminino,Branca,Concluiu,Presente,5104
+46-50,Feminino,Branca,Cursando,Eliminado,425
+46-50,Feminino,Branca,Cursando,Presente,159
+46-50,Feminino,Branca,Evasão,Eliminado,190
+46-50,Feminino,Branca,Evasão,Presente,34
+46-50,Feminino,Indígena,Concluiu,Eliminado,136
+46-50,Feminino,Indígena,Concluiu,Presente,60
+46-50,Feminino,Indígena,Cursando,Eliminado,13
+46-50,Feminino,Não declarado,Concluiu,Eliminado,551
+46-50,Feminino,Não declarado,Concluiu,Presente,225
+46-50,Feminino,Não declarado,Cursando,Eliminado,53
+46-50,Feminino,Não declarado,Cursando,Presente,11
+46-50,Feminino,Não declarado,Evasão,Eliminado,8
+46-50,Feminino,Não declarado,Evasão,Presente,1
+46-50,Feminino,Parda,Concluiu,Eliminado,16682
+46-50,Feminino,Parda,Concluiu,Presente,7829
+46-50,Feminino,Parda,Cursando,Eliminado,780
+46-50,Feminino,Parda,Cursando,Presente,263
+46-50,Feminino,Parda,Evasão,Eliminado,202
+46-50,Feminino,Parda,Evasão,Presente,38
+46-50,Feminino,Preta,Concluiu,Eliminado,5313
+46-50,Feminino,Preta,Concluiu,Presente,2455
+46-50,Feminino,Preta,Cursando,Eliminado,198
+46-50,Feminino,Preta,Cursando,Presente,80
+46-50,Feminino,Preta,Evasão,Eliminado,78
+46-50,Feminino,Preta,Evasão,Presente,12
+46-50,Masculino,Amarela,Concluiu,Eliminado,216
+46-50,Masculino,Amarela,Concluiu,Presente,105
+46-50,Masculino,Amarela,Cursando,Eliminado,5
+46-50,Masculino,Amarela,Cursando,Presente,4
+46-50,Masculino,Amarela,Evasão,Eliminado,5
+46-50,Masculino,Amarela,Evasão,Presente,1
+46-50,Masculino,Branca,Concluiu,Eliminado,6319
+46-50,Masculino,Branca,Concluiu,Presente,3186
+46-50,Masculino,Branca,Cursando,Eliminado,144
+46-50,Masculino,Branca,Cursando,Presente,66
+46-50,Masculino,Branca,Evasão,Eliminado,91
+46-50,Masculino,Branca,Evasão,Presente,16
+46-50,Masculino,Indígena,Concluiu,Eliminado,126
+46-50,Masculino,Indígena,Concluiu,Presente,50
+46-50,Masculino,Indígena,Cursando,Eliminado,9
+46-50,Masculino,Indígena,Cursando,Presente,2
+46-50,Masculino,Indígena,Evasão,Eliminado,3
+46-50,Masculino,Não declarado,Concluiu,Eliminado,368
+46-50,Masculino,Não declarado,Concluiu,Presente,203
+46-50,Masculino,Não declarado,Cursando,Eliminado,26
+46-50,Masculino,Não declarado,Cursando,Presente,3
+46-50,Masculino,Não declarado,Evasão,Eliminado,3
+46-50,Masculino,Parda,Concluiu,Eliminado,10347
+46-50,Masculino,Parda,Concluiu,Presente,5461
+46-50,Masculino,Parda,Cursando,Eliminado,366
+46-50,Masculino,Parda,Cursando,Presente,115
+46-50,Masculino,Parda,Evasão,Eliminado,127
+46-50,Masculino,Parda,Evasão,Presente,24
+46-50,Masculino,Preta,Concluiu,Eliminado,3373
+46-50,Masculino,Preta,Concluiu,Presente,1762
+46-50,Masculino,Preta,Cursando,Eliminado,106
+46-50,Masculino,Preta,Cursando,Presente,49
+46-50,Masculino,Preta,Evasão,Eliminado,39
+46-50,Masculino,Preta,Evasão,Presente,7
+51-55,Feminino,Amarela,Concluiu,Eliminado,272
+51-55,Feminino,Amarela,Concluiu,Presente,126
+51-55,Feminino,Amarela,Cursando,Eliminado,9
+51-55,Feminino,Amarela,Cursando,Presente,4
+51-55,Feminino,Amarela,Evasão,Eliminado,6
+51-55,Feminino,Amarela,Evasão,Presente,1
+51-55,Feminino,Branca,Concluiu,Eliminado,6790
+51-55,Feminino,Branca,Concluiu,Presente,2971
+51-55,Feminino,Branca,Cursando,Eliminado,270
+51-55,Feminino,Branca,Cursando,Presente,109
+51-55,Feminino,Branca,Evasão,Eliminado,130
+51-55,Feminino,Branca,Evasão,Presente,18
+51-55,Feminino,Indígena,Concluiu,Eliminado,70
+51-55,Feminino,Indígena,Concluiu,Presente,48
+51-55,Feminino,Indígena,Cursando,Eliminado,8
+51-55,Feminino,Indígena,Cursando,Presente,2
+51-55,Feminino,Indígena,Evasão,Eliminado,2
+51-55,Feminino,Indígena,Evasão,Presente,3
+51-55,Feminino,Não declarado,Concluiu,Eliminado,300
+51-55,Feminino,Não declarado,Concluiu,Presente,148
+51-55,Feminino,Não declarado,Cursando,Eliminado,17
+51-55,Feminino,Não declarado,Cursando,Presente,6
+51-55,Feminino,Não declarado,Evasão,Eliminado,1
+51-55,Feminino,Parda,Concluiu,Eliminado,8531
+51-55,Feminino,Parda,Concluiu,Presente,3947
+51-55,Feminino,Parda,Cursando,Eliminado,407
+51-55,Feminino,Parda,Cursando,Presente,143
+51-55,Feminino,Parda,Evasão,Eliminado,112
+51-55,Feminino,Parda,Evasão,Presente,30
+51-55,Feminino,Preta,Concluiu,Eliminado,2830
+51-55,Feminino,Preta,Concluiu,Presente,1362
+51-55,Feminino,Preta,Cursando,Eliminado,95
+51-55,Feminino,Preta,Cursando,Presente,41
+51-55,Feminino,Preta,Evasão,Eliminado,55
+51-55,Feminino,Preta,Evasão,Presente,4
+51-55,Masculino,Amarela,Concluiu,Eliminado,105
+51-55,Masculino,Amarela,Concluiu,Presente,64
+51-55,Masculino,Amarela,Cursando,Eliminado,2
+51-55,Masculino,Amarela,Evasão,Eliminado,2
+51-55,Masculino,Branca,Concluiu,Eliminado,3948
+51-55,Masculino,Branca,Concluiu,Presente,2066
+51-55,Masculino,Branca,Cursando,Eliminado,92
+51-55,Masculino,Branca,Cursando,Presente,35
+51-55,Masculino,Branca,Evasão,Eliminado,59
+51-55,Masculino,Branca,Evasão,Presente,8
+51-55,Masculino,Indígena,Concluiu,Eliminado,57
+51-55,Masculino,Indígena,Concluiu,Presente,36
+51-55,Masculino,Indígena,Cursando,Eliminado,8
+51-55,Masculino,Indígena,Cursando,Presente,2
+51-55,Masculino,Indígena,Evasão,Eliminado,2
+51-55,Masculino,Não declarado,Concluiu,Eliminado,223
+51-55,Masculino,Não declarado,Concluiu,Presente,115
+51-55,Masculino,Não declarado,Cursando,Eliminado,15
+51-55,Masculino,Não declarado,Cursando,Presente,2
+51-55,Masculino,Não declarado,Evasão,Eliminado,4
+51-55,Masculino,Parda,Concluiu,Eliminado,5539
+51-55,Masculino,Parda,Concluiu,Presente,2985
+51-55,Masculino,Parda,Cursando,Eliminado,180
+51-55,Masculino,Parda,Cursando,Presente,68
+51-55,Masculino,Parda,Evasão,Eliminado,75
+51-55,Masculino,Parda,Evasão,Presente,19
+51-55,Masculino,Preta,Concluiu,Eliminado,1829
+51-55,Masculino,Preta,Concluiu,Presente,1021
+51-55,Masculino,Preta,Cursando,Eliminado,62
+51-55,Masculino,Preta,Cursando,Presente,22
+51-55,Masculino,Preta,Evasão,Eliminado,19
+51-55,Masculino,Preta,Evasão,Presente,7
+56-60,Feminino,Amarela,Concluiu,Eliminado,96
+56-60,Feminino,Amarela,Concluiu,Presente,52
+56-60,Feminino,Amarela,Cursando,Eliminado,6
+56-60,Feminino,Amarela,Cursando,Presente,2
+56-60,Feminino,Amarela,Evasão,Eliminado,1
+56-60,Feminino,Branca,Concluiu,Eliminado,3182
+56-60,Feminino,Branca,Concluiu,Presente,1350
+56-60,Feminino,Branca,Cursando,Eliminado,125
+56-60,Feminino,Branca,Cursando,Presente,46
+56-60,Feminino,Branca,Evasão,Eliminado,52
+56-60,Feminino,Branca,Evasão,Presente,5
+56-60,Feminino,Indígena,Concluiu,Eliminado,32
+56-60,Feminino,Indígena,Concluiu,Presente,14
+56-60,Feminino,Indígena,Cursando,Eliminado,6
+56-60,Feminino,Indígena,Cursando,Presente,3
+56-60,Feminino,Não declarado,Concluiu,Eliminado,132
+56-60,Feminino,Não declarado,Concluiu,Presente,62
+56-60,Feminino,Não declarado,Cursando,Eliminado,10
+56-60,Feminino,Não declarado,Cursando,Presente,1
+56-60,Feminino,Não declarado,Evasão,Eliminado,2
+56-60,Feminino,Não declarado,Evasão,Presente,1
+56-60,Feminino,Parda,Concluiu,Eliminado,3636
+56-60,Feminino,Parda,Concluiu,Presente,1589
+56-60,Feminino,Parda,Cursando,Eliminado,200
+56-60,Feminino,Parda,Cursando,Presente,53
+56-60,Feminino,Parda,Evasão,Eliminado,38
+56-60,Feminino,Parda,Evasão,Presente,9
+56-60,Feminino,Preta,Concluiu,Eliminado,1332
+56-60,Feminino,Preta,Concluiu,Presente,662
+56-60,Feminino,Preta,Cursando,Eliminado,55
+56-60,Feminino,Preta,Cursando,Presente,28
+56-60,Feminino,Preta,Evasão,Eliminado,20
+56-60,Feminino,Preta,Evasão,Presente,5
+56-60,Masculino,Amarela,Concluiu,Eliminado,60
+56-60,Masculino,Amarela,Concluiu,Presente,45
+56-60,Masculino,Amarela,Cursando,Eliminado,2
+56-60,Masculino,Branca,Concluiu,Eliminado,2263
+56-60,Masculino,Branca,Concluiu,Presente,1215
+56-60,Masculino,Branca,Cursando,Eliminado,44
+56-60,Masculino,Branca,Cursando,Presente,24
+56-60,Masculino,Branca,Evasão,Eliminado,39
+56-60,Masculino,Branca,Evasão,Presente,4
+56-60,Masculino,Indígena,Concluiu,Eliminado,32
+56-60,Masculino,Indígena,Concluiu,Presente,17
+56-60,Masculino,Indígena,Cursando,Eliminado,3
+56-60,Masculino,Indígena,Evasão,Eliminado,1
+56-60,Masculino,Não declarado,Concluiu,Eliminado,122
+56-60,Masculino,Não declarado,Concluiu,Presente,52
+56-60,Masculino,Não declarado,Cursando,Eliminado,7
+56-60,Masculino,Não declarado,Cursando,Presente,1
+56-60,Masculino,Não declarado,Evasão,Eliminado,2
+56-60,Masculino,Não declarado,Evasão,Presente,1
+56-60,Masculino,Parda,Concluiu,Eliminado,2573
+56-60,Masculino,Parda,Concluiu,Presente,1435
+56-60,Masculino,Parda,Cursando,Eliminado,84
+56-60,Masculino,Parda,Cursando,Presente,53
+56-60,Masculino,Parda,Evasão,Eliminado,33
+56-60,Masculino,Parda,Evasão,Presente,4
+56-60,Masculino,Preta,Concluiu,Eliminado,911
+56-60,Masculino,Preta,Concluiu,Presente,483
+56-60,Masculino,Preta,Cursando,Eliminado,24
+56-60,Masculino,Preta,Cursando,Presente,19
+56-60,Masculino,Preta,Evasão,Eliminado,18
+56-60,Masculino,Preta,Evasão,Presente,5
+61-65,Feminino,Amarela,Concluiu,Eliminado,28
+61-65,Feminino,Amarela,Concluiu,Presente,21
+61-65,Feminino,Amarela,Cursando,Eliminado,2
+61-65,Feminino,Amarela,Cursando,Presente,1
+61-65,Feminino,Amarela,Evasão,Eliminado,1
+61-65,Feminino,Branca,Concluiu,Eliminado,1133
+61-65,Feminino,Branca,Concluiu,Presente,421
+61-65,Feminino,Branca,Cursando,Eliminado,32
+61-65,Feminino,Branca,Cursando,Presente,19
+61-65,Feminino,Branca,Evasão,Eliminado,23
+61-65,Feminino,Branca,Evasão,Presente,2
+61-65,Feminino,Indígena,Concluiu,Eliminado,18
+61-65,Feminino,Indígena,Concluiu,Presente,4
+61-65,Feminino,Indígena,Cursando,Eliminado,2
+61-65,Feminino,Indígena,Evasão,Eliminado,1
+61-65,Feminino,Não declarado,Concluiu,Eliminado,44
+61-65,Feminino,Não declarado,Concluiu,Presente,12
+61-65,Feminino,Não declarado,Cursando,Eliminado,3
+61-65,Feminino,Não declarado,Cursando,Presente,1
+61-65,Feminino,Não declarado,Evasão,Eliminado,3
+61-65,Feminino,Parda,Concluiu,Eliminado,1159
+61-65,Feminino,Parda,Concluiu,Presente,505
+61-65,Feminino,Parda,Cursando,Eliminado,50
+61-65,Feminino,Parda,Cursando,Presente,23
+61-65,Feminino,Parda,Evasão,Eliminado,17
+61-65,Feminino,Parda,Evasão,Presente,1
+61-65,Feminino,Preta,Concluiu,Eliminado,457
+61-65,Feminino,Preta,Concluiu,Presente,214
+61-65,Feminino,Preta,Cursando,Eliminado,23
+61-65,Feminino,Preta,Cursando,Presente,7
+61-65,Feminino,Preta,Evasão,Eliminado,8
+61-65,Feminino,Preta,Evasão,Presente,3
+61-65,Masculino,Amarela,Concluiu,Eliminado,33
+61-65,Masculino,Amarela,Concluiu,Presente,14
+61-65,Masculino,Branca,Concluiu,Eliminado,958
+61-65,Masculino,Branca,Concluiu,Presente,567
+61-65,Masculino,Branca,Cursando,Eliminado,16
+61-65,Masculino,Branca,Cursando,Presente,2
+61-65,Masculino,Branca,Evasão,Eliminado,7
+61-65,Masculino,Indígena,Concluiu,Eliminado,11
+61-65,Masculino,Indígena,Concluiu,Presente,5
+61-65,Masculino,Indígena,Cursando,Eliminado,4
+61-65,Masculino,Não declarado,Concluiu,Eliminado,42
+61-65,Masculino,Não declarado,Concluiu,Presente,39
+61-65,Masculino,Não declarado,Cursando,Eliminado,1
+61-65,Masculino,Não declarado,Cursando,Presente,1
+61-65,Masculino,Não declarado,Evasão,Eliminado,1
+61-65,Masculino,Parda,Concluiu,Eliminado,955
+61-65,Masculino,Parda,Concluiu,Presente,603
+61-65,Masculino,Parda,Cursando,Eliminado,36
+61-65,Masculino,Parda,Cursando,Presente,21
+61-65,Masculino,Parda,Evasão,Eliminado,11
+61-65,Masculino,Parda,Evasão,Presente,4
+61-65,Masculino,Preta,Concluiu,Eliminado,351
+61-65,Masculino,Preta,Concluiu,Presente,201
+61-65,Masculino,Preta,Cursando,Eliminado,11
+61-65,Masculino,Preta,Cursando,Presente,6
+61-65,Masculino,Preta,Evasão,Eliminado,5
+61-65,Masculino,Preta,Evasão,Presente,1
+66-70,Feminino,Amarela,Concluiu,Eliminado,9
+66-70,Feminino,Amarela,Concluiu,Presente,2
+66-70,Feminino,Branca,Concluiu,Eliminado,348
+66-70,Feminino,Branca,Concluiu,Presente,139
+66-70,Feminino,Branca,Cursando,Eliminado,13
+66-70,Feminino,Branca,Cursando,Presente,8
+66-70,Feminino,Branca,Evasão,Eliminado,4
+66-70,Feminino,Branca,Evasão,Presente,1
+66-70,Feminino,Indígena,Concluiu,Eliminado,9
+66-70,Feminino,Indígena,Concluiu,Presente,2
+66-70,Feminino,Indígena,Cursando,Eliminado,3
+66-70,Feminino,Não declarado,Concluiu,Eliminado,17
+66-70,Feminino,Não declarado,Concluiu,Presente,6
+66-70,Feminino,Não declarado,Cursando,Eliminado,2
+66-70,Feminino,Não declarado,Cursando,Presente,1
+66-70,Feminino,Parda,Concluiu,Eliminado,325
+66-70,Feminino,Parda,Concluiu,Presente,137
+66-70,Feminino,Parda,Cursando,Eliminado,12
+66-70,Feminino,Parda,Cursando,Presente,6
+66-70,Feminino,Parda,Evasão,Eliminado,6
+66-70,Feminino,Parda,Evasão,Presente,2
+66-70,Feminino,Preta,Concluiu,Eliminado,145
+66-70,Feminino,Preta,Concluiu,Presente,57
+66-70,Feminino,Preta,Cursando,Eliminado,4
+66-70,Feminino,Preta,Cursando,Presente,3
+66-70,Feminino,Preta,Evasão,Eliminado,1
+66-70,Masculino,Amarela,Concluiu,Eliminado,8
+66-70,Masculino,Amarela,Concluiu,Presente,3
+66-70,Masculino,Amarela,Evasão,Eliminado,1
+66-70,Masculino,Branca,Concluiu,Eliminado,372
+66-70,Masculino,Branca,Concluiu,Presente,189
+66-70,Masculino,Branca,Cursando,Eliminado,12
+66-70,Masculino,Branca,Cursando,Presente,4
+66-70,Masculino,Branca,Evasão,Eliminado,3
+66-70,Masculino,Branca,Evasão,Presente,3
+66-70,Masculino,Indígena,Concluiu,Eliminado,4
+66-70,Masculino,Indígena,Concluiu,Presente,3
+66-70,Masculino,Indígena,Cursando,Eliminado,1
+66-70,Masculino,Não declarado,Concluiu,Eliminado,19
+66-70,Masculino,Não declarado,Concluiu,Presente,6
+66-70,Masculino,Não declarado,Cursando,Eliminado,2
+66-70,Masculino,Parda,Concluiu,Eliminado,352
+66-70,Masculino,Parda,Concluiu,Presente,205
+66-70,Masculino,Parda,Cursando,Eliminado,6
+66-70,Masculino,Parda,Cursando,Presente,2
+66-70,Masculino,Parda,Evasão,Eliminado,5
+66-70,Masculino,Preta,Concluiu,Eliminado,144
+66-70,Masculino,Preta,Concluiu,Presente,77
+66-70,Masculino,Preta,Cursando,Eliminado,8
+66-70,Masculino,Preta,Cursando,Presente,2
+>70,Feminino,Amarela,Concluiu,Eliminado,1
+>70,Feminino,Amarela,Concluiu,Presente,1
+>70,Feminino,Branca,Concluiu,Eliminado,110
+>70,Feminino,Branca,Concluiu,Presente,46
+>70,Feminino,Branca,Cursando,Eliminado,10
+>70,Feminino,Branca,Cursando,Presente,2
+>70,Feminino,Branca,Evasão,Eliminado,3
+>70,Feminino,Branca,Evasão,Presente,1
+>70,Feminino,Indígena,Concluiu,Presente,2
+>70,Feminino,Não declarado,Concluiu,Eliminado,8
+>70,Feminino,Parda,Concluiu,Eliminado,88
+>70,Feminino,Parda,Concluiu,Presente,31
+>70,Feminino,Parda,Cursando,Eliminado,10
+>70,Feminino,Parda,Evasão,Eliminado,2
+>70,Feminino,Preta,Concluiu,Eliminado,50
+>70,Feminino,Preta,Concluiu,Presente,13
+>70,Feminino,Preta,Cursando,Eliminado,3
+>70,Feminino,Preta,Cursando,Presente,1
+>70,Feminino,Preta,Evasão,Presente,1
+>70,Masculino,Amarela,Concluiu,Eliminado,3
+>70,Masculino,Amarela,Cursando,Presente,1
+>70,Masculino,Branca,Concluiu,Eliminado,152
+>70,Masculino,Branca,Concluiu,Presente,89
+>70,Masculino,Branca,Cursando,Eliminado,2
+>70,Masculino,Branca,Cursando,Presente,1
+>70,Masculino,Branca,Evasão,Presente,1
+>70,Masculino,Indígena,Concluiu,Eliminado,1
+>70,Masculino,Indígena,Concluiu,Presente,2
+>70,Masculino,Não declarado,Concluiu,Eliminado,4
+>70,Masculino,Não declarado,Concluiu,Presente,4
+>70,Masculino,Parda,Concluiu,Eliminado,118
+>70,Masculino,Parda,Concluiu,Presente,60
+>70,Masculino,Parda,Cursando,Eliminado,7
+>70,Masculino,Parda,Cursando,Presente,2
+>70,Masculino,Parda,Evasão,Eliminado,1
+>70,Masculino,Parda,Evasão,Presente,1
+>70,Masculino,Preta,Concluiu,Eliminado,66
+>70,Masculino,Preta,Concluiu,Presente,27
+>70,Masculino,Preta,Cursando,Eliminado,2
+>70,Masculino,Preta,Cursando,Presente,3
+>70,Masculino,Preta,Evasão,Eliminado,1
